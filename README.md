@@ -1,40 +1,12 @@
-Module: tf.keras.optimizers
-
-bookmark_border
-Built-in optimizer classes.
-
-View aliases
-For more examples see the base class tf.keras.optimizers.Optimizer.
-
-Modules
-experimental module: Public API for tf.keras.optimizers.experimental namespace.
-
-legacy module: Public API for tf.keras.optimizers.legacy namespace.
-
-schedules module: Public API for tf.keras.optimizers.schedules namespace.
-
-Classes
-class Adadelta: Optimizer that implements the Adadelta algorithm.
-
-class Adagrad: Optimizer that implements the Adagrad algorithm.
-
-class Adam: Optimizer that implements the Adam algorithm.
-
-class Adamax: Optimizer that implements the Adamax algorithm.
-
-class Ftrl: Optimizer that implements the FTRL algorithm.
-
-class Nadam: Optimizer that implements the Nadam algorithm.
-
-class Optimizer: Abstract optimizer base class.
-
-class RMSprop: Optimizer that implements the RMSprop algorithm.
-
-class SGD: Gradient descent (with momentum) optimizer.
-
-Functions
-deserialize(...): Inverse of the serialize function.
-
-get(...): Retrieves a Keras Optimizer instance.
-
-serialize(...): Serialize the optimizer configuration to JSON compatible python dict.
+Abstract
+Cardiovascular diseases (or heart diseases) are the
+leading cause of death worldwide, with around 18 mil-
+lion deaths yearly. Several diagnosis methods are avail-
+able worldwide, but they are expensive in terms of time,
+money and personnel. The motivation for our project is
+to conduct data analysis and build classification mod-
+els using machine learning techniques to help practi-
+tioners make more accurate decisions regarding classi-
+fying heart diseases. We aim to combine multiple models
+for data analysis and perform relevant model evaluation
+techniques to present a proper, functioning mode

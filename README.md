@@ -7,4 +7,3 @@ Cardiovascular diseases (or heart diseases) are the leading cause of death world
 ```py
 print("Code incoming")
 ```
-Where

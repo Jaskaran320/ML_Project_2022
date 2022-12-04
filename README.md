@@ -12,4 +12,4 @@ els using machine learning techniques to help practi-
 tioners make more accurate decisions regarding classi-
 fying heart diseases. We aim to combine multiple models
 for data analysis and perform relevant model evaluation
-techniques to present a proper, functioning mode
+techniques to present a proper, functioning model
